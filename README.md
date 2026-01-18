@@ -425,6 +425,3 @@ npm run dev
 composer test
 ```
 
-## License
-
-MIT
